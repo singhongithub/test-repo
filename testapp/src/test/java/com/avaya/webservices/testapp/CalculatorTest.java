@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class CalculatorTest {
 
-	/*@Test
+	@Test
 	public void addTest() {
 		CalculatorStub stub1 = new CalculatorStub();
 		assertEquals(4, stub1.add(1, 3));
@@ -22,7 +22,7 @@ public class CalculatorTest {
 	public void mulTest() {
 		CalculatorStub stub3 = new CalculatorStub();
 		assertEquals(8, stub3.mul(4, 2));
-	}*/
+	}
 	
 
 }
